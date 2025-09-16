@@ -1,20 +1,28 @@
 <h1 align="center">⚡ Termux Converter GUI ⚡</h1>
-<p align="center">
+
+<div align="center">
+
+  <!-- Badges -->
   <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=yellow" />
   <img src="https://img.shields.io/badge/GUI-CustomTkinter-green?logo=windowsterminal&logoColor=white" />
   <img src="https://img.shields.io/badge/Build-Nuitka-orange?logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/Made%20With-♥%20by%20Yashvir%20Gaming-red" />
-</p>
 
-<p align="center">
+  <br><br>
+
+  <!-- Preview Image -->
+  <img width="771" alt="preview" src="https://github.com/user-attachments/assets/2d8333d4-e156-4dd2-abc7-94ab47f35a0a" />
+
+  <br><br>
+
+  <!-- Short description -->
   <b>A Dark Hacker Vibe GUI that converts your CLI Python Checkers for Termux mobile use.</b><br>
-  🚀 Removes drag & drop → Hardcoded <code>combos.txt</code> & <code>proxies.txt</code><br>
+  ✂ Removes drag & drop → Hardcoded <code>combos.txt</code> & <code>proxies.txt</code><br>
   🔍 Auto-checks and auto-creates missing files<br>
-  ✂ Replaces <code>.strip()</code> with <code>.rstrip("\n")</code> (no auto-trimming)<br>
+  🔄 Replaces <code>.strip()</code> with <code>.rstrip("\n")</code> (no auto-trimming)<br>
   ⚡ Saves a patched <code>_termux.py</code> version of your checker
-</p>
 
-<img width="771" height="504" alt="image" src="https://github.com/user-attachments/assets/594d7c80-35cf-42f9-a196-a3d7d5744fd8" />
+</div>
 
 <h2>📥 Features</h2>
 <ul>
